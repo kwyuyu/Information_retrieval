@@ -1,0 +1,801 @@
+                          Term   Ctf   Tdf
+Query 1
+                      breeches     7     7
+                         drove     8     8
+                      olympian     2     2
+                     downwards     1     1
+                      yourself   356   226
+                          bale     1     1
+                        unbury     2     2
+Query 2
+                          audi     1     1
+                           gay     8     8
+                         never  1021   422
+                         alley     4     4
+                      incorpse     1     1
+                         sixth    23    20
+                      thickest     4     2
+Query 3
+                       bowling     1     1
+                       supreme     7     7
+                     revenging     1     1
+                       climber     2     2
+                     messenger   333   112
+                       revania     1     1
+                         diome    35    12
+Query 4
+                        parrot     9     9
+                         bribe    12     9
+                      heraldry     5     5
+                       ownself     1     1
+                          geck     2     2
+                     religious    19    18
+                        twenty   158   113
+Query 5
+                    improbable     1     1
+                   enchantress     1     1
+                       adjudge     5     5
+                    expedition    25    22
+                      cotswold     2     2
+                        waylay     1     1
+                     importeth     2     2
+Query 6
+                          vici     1     1
+                       untruss     1     1
+                             y     3     3
+                      studious     3     3
+                    convulsion     1     1
+                          hoxe     1     1
+                          avow     2     2
+Query 7
+                      propound     1     1
+                        lovell    40     6
+                          what  4798   668
+                        erblow     1     1
+                     patronage     2     2
+                        hilloa     1     1
+                         shoal     2     2
+Query 8
+                     overborne     6     6
+                  embarquement     1     1
+                      foresaid     6     6
+                     upholdeth     1     1
+                          safe   128   103
+                          kine     3     3
+                     aggrieved     1     1
+Query 9
+                        sconce     8     6
+                        fordid     1     1
+                         frank    14    14
+                          mild    40    32
+                     vincentio   253    19
+                         drier     2     2
+                        ordure     1     1
+Query 10
+                          copy    17    17
+                         storm    75    58
+                        razure     1     1
+                          lapp     4     4
+                       utility     1     1
+                        jingle     1     1
+                        angloi     5     2
+Query 11
+                       erhasty     1     1
+                         swath     2     2
+                          that 11064   724
+                       langton     1     1
+                         molto     1     1
+                     professed     5     5
+                     balthazar     9     2
+Query 12
+                        defect    14    13
+                     beardless     2     2
+                      endanger     2     2
+                      contrive    16    16
+                           ero    63     7
+                     equivocal     2     2
+                        hiding     8     8
+Query 13
+                         whene     2     2
+                         angel    89    72
+                      monopoly     1     1
+                          sign    87    71
+                         overt     1     1
+                 confectionary     1     1
+                          edge    46    45
+Query 14
+                       epithet     5     5
+                         spite    58    47
+                       muleter     2     2
+                transformation     7     7
+                       catesby    73    12
+                       distant     5     5
+                       inkhorn     2     2
+Query 15
+                    scandalous     2     2
+                      unwished     1     1
+                        convey    49    42
+                         chine     3     3
+                     talbotite     1     1
+                         total     3     3
+                          jour     3     3
+Query 16
+                   threatening     1     1
+                          topa    16     2
+                           pit    26    14
+                          dupp     1     1
+                  schoolfellow     1     1
+                     unfoldeth     1     1
+                      abortive     5     5
+Query 17
+                        bennet     2     2
+                      blockish     1     1
+                      thinkest    15    15
+                         siege    30    25
+                         gapes     1     1
+                         louse     3     3
+                        aslant     1     1
+Query 18
+                       portend     7     5
+                       cucullu     2     2
+                          wert   101    72
+                       regress     1     1
+                           led    72    60
+                  stablishment     1     1
+                       sleight     2     2
+Query 19
+                    tripartite     1     1
+                      hornbook     1     1
+                          pall     3     3
+                    burthenous     1     1
+                        varied     4     4
+                    calumnious     3     3
+                         beach     6     6
+Query 20
+                          fend     1     1
+                      birdlime     1     1
+                         diest    21    19
+                   instruction    22    20
+                          less   214   154
+                       outlive    20    18
+                      impudent    11    10
+Query 21
+                          hind    16    16
+                         fleet    23    19
+                      charmian   104    12
+                      enduring     1     1
+                      unhallow     8     8
+                        boding     6     6
+                          seen   256   178
+Query 22
+                             9     1     1
+                       quoniam     1     1
+                    dependency     4     4
+                          lune     3     3
+                      practise    82    71
+                         round    81    69
+                         poise     7     7
+Query 23
+                         bushy    27     8
+                           aid    61    49
+                         blush    84    61
+                          even   589   325
+                        thurio    71     8
+                      malapert     3     3
+                           arm   191   124
+Query 24
+                      foretold     4     4
+                        fetter    12    12
+                         exion     1     1
+                       ingross     1     1
+                          harm   111    83
+                        refuge     6     6
+                    propension     1     1
+Query 25
+                   commandment    16    14
+                        accept    35    30
+                        lisbon     1     1
+                       spleeny     1     1
+                 consanguinity     1     1
+                        appele     2     2
+                     monstrous    66    53
+Query 26
+                         hovel     8     4
+                       pickaxe     1     1
+                         batch     1     1
+                        angloi     5     2
+                       younger    33    28
+                         terms    75    64
+                        worldl     2     2
+Query 27
+                     inhibited     2     2
+                        dotage    10     8
+                        supple     8     8
+                        unroll     2     2
+                         gross    84    68
+                     valiantly     5     5
+                        repeat    17    15
+Query 28
+                   highwrought     1     1
+                    difficulty     5     5
+                          vary     8     8
+                 accommodation     1     1
+                     receiveth     1     1
+                      forborne     1     1
+                        ergall     1     1
+Query 29
+                    magnificoe     2     2
+                        steady     1     1
+                           jug     1     1
+                       mappery     1     1
+                         bonny     7     7
+                          warr     4     4
+                      treasure    49    43
+Query 30
+                       robbery     7     7
+                    surpassing     1     1
+                        record    32    29
+                     biondello    74     8
+                        double    97    74
+                          lure     2     2
+                          duck    12    10
+Query 31
+                         ebrew     1     1
+                      polyxene     1     1
+                       swounde     2     2
+                          fort     8     8
+                      chariest     1     1
+                     waterdrop     1     1
+                    mechanical     5     5
+Query 32
+                     unkindest     4     3
+                      flowered     2     2
+                        louvre     2     2
+                     infirmity    21    17
+                     penurious     1     1
+                        pinion     5     5
+                            ii   280   179
+Query 33
+                          wail    30    22
+                        sickly    19    19
+                         noted    23    22
+                   septentrion     1     1
+                        jangle     4     4
+                         usury     4     4
+                     departure    21    20
+Query 34
+                     esteemest     1     1
+                        palter     5     5
+                      fortress     4     4
+                      encircle     2     2
+                          tost     1     1
+                           sha     1     1
+                       outstay     1     1
+Query 35
+                    michaelmas     2     2
+                        fiddle     2     1
+                     adversity     9     9
+                      deceased    13    12
+                       hangman    21    16
+                            ne   239   175
+                          glue     4     4
+Query 36
+                         dodge     1     1
+                         cries    59    55
+                       chiefly    12    12
+                         elegy     2     2
+                         coign     2     2
+                           rim     2     2
+                       dismask     1     1
+Query 37
+                      draughts     3     3
+                         swain    26    17
+                  killingworth     2     1
+                        grieve    87    74
+                        liable     7     7
+                      dumbshow     1     1
+                        drawer    18     5
+Query 38
+                        gurnet     1     1
+                         unapt     5     5
+                          etna     1     1
+                           tow     1     1
+                         awful     7     7
+                      disliken     1     1
+                   contrariety     2     2
+Query 39
+                       laurels     1     1
+                         black   173   122
+                      berkeley    11     3
+                        intend    70    60
+                         stone   128    92
+                   reverberate     3     3
+                       custard     2     2
+Query 40
+                       unchary     1     1
+                      solidare     1     1
+                     pedascule     1     1
+                           leg   106    78
+                  henceforward     6     6
+                          cyru     1     1
+                    refreshing     1     1
+Query 41
+                      ornament    23    21
+                       martino     1     1
+                    victualler     1     1
+                         batch     1     1
+                        bitter    92    67
+                       thereby    25    24
+                      aldermen     2     2
+Query 42
+                       swollen     1     1
+                        active     7     7
+                     nutriment     1     1
+                       blasted    10    10
+                      whereout     1     1
+                        hector   223    30
+                         surge    13    12
+Query 43
+                           jew    76    19
+                         swoop     1     1
+                        sliver     2     2
+                 unreprievable     1     1
+                    stepmother     1     1
+                      villager     1     1
+                        extoll     1     1
+Query 44
+                          wade     5     5
+                      lethargy     7     7
+                    unlettered     2     2
+                        roussi     2     2
+                        throca     1     1
+                  slaughterman     1     1
+                    glittering     8     8
+Query 45
+                       counsel   149   112
+                         toils     2     2
+                           all  3873   661
+                     provinces     6     6
+                      cincture     1     1
+                       leopard     4     3
+                           orb    17    17
+Query 46
+                        seaman     2     2
+                     turpitude     2     2
+                      nineteen     4     4
+                           enr     1     1
+                    prosperity    17    17
+                            or  2350   564
+                        riches    22    21
+Query 47
+                        censer     2     2
+                        phibbu     1     1
+                        malady    11    10
+                        unfool     1     1
+                          pill     5     5
+                        razeth     1     1
+                     environed     5     5
+Query 48
+                         spain    16    12
+                        geminy     1     1
+                       unwiped     1     1
+                        unharm     1     1
+                  alphabetical     1     1
+                       mineral     4     4
+                       seymour     1     1
+Query 49
+                        alecto     1     1
+                      lettered     1     1
+                  distillation     1     1
+                        invoke     1     1
+                      popinjay     1     1
+                         panty     1     1
+                         tipsy     1     1
+Query 50
+                        tester     2     2
+                       orderly     8     8
+                         unpeg     1     1
+                       chapter     1     1
+                        sunder    13    13
+                          flaw    14    14
+                        deadly    50    44
+Query 51
+                         niobe     2     2
+                       unwrung     1     1
+                        leader    15    14
+                        impede     1     1
+                        dressy     1     1
+                     tewksbury     8     8
+                  peaseblossom    11     2
+Query 52
+                          ames     1     1
+                         silly    18    17
+                          fond    61    54
+                        maiden    54    42
+                     greenwood     1     1
+                      hisperia     1     1
+                        bucket     5     4
+Query 53
+                         would  2302   553
+                         laund     1     1
+                      favoured    11     9
+                          boss     1     1
+                           bog     5     5
+                         wench    84    57
+                       hinderd     1     1
+Query 54
+                   illustrious     4     4
+                       rutting     1     1
+                          rely     6     6
+                      clodpole     1     1
+                        desert    44    40
+                     climature     1     1
+                           jot    20    18
+Query 55
+                        unroof     1     1
+                        inviti     1     1
+                   certificate     1     1
+                           mot     5     1
+                        fitful     1     1
+                         gapes     1     1
+                        tyrian     6     2
+Query 56
+                    underneath    14    14
+                   experienced     5     5
+                     aufidiuse     1     1
+                        though   607   328
+                    habiliment     5     5
+                           ego     1     1
+                         undid     2     2
+Query 57
+                      olympian     2     2
+                       custure     1     1
+                         rebel    55    39
+                         chaud     1     1
+                        sinner     8     8
+                       languor     1     1
+                       surgeon    16    14
+Query 58
+                          etre     1     1
+                        enrapt     1     1
+                       maypole     1     1
+                        osprey     1     1
+                       pyramid     3     3
+                       scandal    17    16
+                         syria     6     4
+Query 59
+                        sports    10    10
+                       raiment     5     5
+                     intricate     1     1
+                        entire    17    16
+                           add    74    63
+                       apparel    38    32
+                        suffer   130   105
+Query 60
+                           end   386   240
+                         known   190   149
+                  uncharitable     1     1
+                       diffuse     2     2
+                  contemptuous     3     3
+                          zany     2     2
+                      cavalero     1     1
+Query 61
+                            il    15     5
+                         hives     1     1
+                         stoic     1     1
+                        morton     9     1
+                            xv     1     1
+                      humorous    11    11
+                 disproportion     4     4
+Query 62
+                          blab     4     4
+                        filial     3     3
+                       impious     6     6
+                       honneur     5     2
+                       philotu     8     1
+                       leopard     4     3
+                         shear    10     4
+Query 63
+                     apollinem     1     1
+                       abandon     9     8
+                         doigt     5     1
+                    margarelon     5     2
+                   uncuckolded     1     1
+                        occupy     2     2
+                    astronomer     2     2
+Query 64
+                      indirect    18    16
+                     husbandry    13    13
+                      ancients     1     1
+                         weene     1     1
+                          hero   124    20
+                       hangeth     2     2
+                      yourself   356   226
+Query 65
+                        orifex     1     1
+                         scare     6     6
+                        jewish     2     2
+                     dowerless     2     2
+                         absey     1     1
+                      inviting     4     4
+                        quando     1     1
+Query 66
+                      coventry    13     7
+                         bleat     6     6
+                     agreement     4     3
+                        farest     2     2
+                      disloyal    12    10
+                     unpartial     1     1
+                       livedst     1     1
+Query 67
+                       creator     1     1
+                   benevolence     2     2
+                            ap     1     1
+                    regenerate     1     1
+                           him  5185   637
+                      cureless     2     2
+                        things   316   213
+Query 68
+                       manacle     7     7
+                       connive     1     1
+                          boys    84    67
+                         arose     3     3
+                   sanctuarize     1     1
+                       lingare     1     1
+                     stigmatic     3     3
+Query 69
+                    invitation     1     1
+                           chu     1     1
+                     comforter     4     4
+                          lend   108    82
+                    politician     5     5
+                      ordinant     1     1
+                         scaly     1     1
+Query 70
+                        deesse     1     1
+                           ire     5     5
+                    harbourage     2     2
+                        crafty    15    13
+                      shelving     1     1
+                        target     8     8
+                        clause     1     1
+Query 71
+                     wherewith     9     8
+                       scrimer     1     1
+                            fe     4     1
+                  overwhelming     1     1
+                        yorick     2     1
+                     umfrevile     1     1
+                    warranteth     1     1
+Query 72
+                      forerunn     1     1
+                         ocean    26    23
+                          sent   265   174
+                       confuse     9     9
+                       antenor    15     7
+                        decide     3     3
+                          duck    12    10
+Query 73
+                        cressy     1     1
+                       himself   451   270
+                      landlord     2     2
+                      beverage     1     1
+                      bowsprit     1     1
+                        orator    15    15
+                     attendeth     1     1
+Query 74
+                           pad     1     1
+                  warwickshire     3     3
+                       decorum     3     3
+                        wittol     2     1
+                       enamell     2     2
+                        payest     1     1
+                         manka     1     1
+Query 75
+                          dumb    45    41
+                      rosalind   273    11
+                        minion    22    19
+                        erween     2     2
+                       sworest     3     3
+                          tutu     1     1
+                       parthia     7     5
+Query 76
+                   serenissima     1     1
+                        girdle    14    14
+                         peach     4     3
+                      bardolph   207    28
+                       mardian    18     4
+                       imitari     1     1
+                       whereat     8     8
+Query 77
+                        haunch     3     3
+                         pagan     9     9
+                     enthroned     5     5
+                    perpetuity     3     3
+                        square    19    18
+                     repentant     1     1
+                     frederick    31     6
+Query 78
+                     chimurcho     1     1
+                     traveller    23    18
+                         swath     2     2
+                    enterprise    36    30
+                     adornment     2     2
+                    immoderate     2     2
+                      couronne     1     1
+Query 79
+                        friend   415   231
+                       flowing     7     7
+                   handkercher     4     4
+                    unexecuted     1     1
+                      woolward     1     1
+                    forefinger     1     1
+                       relique     2     2
+Query 80
+                         alexa    34     7
+                     presageth     2     2
+                          cell    40    23
+                          clap    26    24
+                       topmost     1     1
+                       knowist     2     2
+                       fulness     5     5
+Query 81
+                       maypole     1     1
+                    cappadocia     1     1
+                    sufferance    27    26
+                   unsuspected     2     2
+                       degrade     2     2
+                        madame    10     2
+                        stitch     2     2
+Query 82
+                      footfall     1     1
+                           cow    10     9
+                       hostess    75    18
+                   substantial     4     4
+                     overjoyed     1     1
+                    proportion    29    28
+                      pressure     2     2
+Query 83
+                        enmity    20    19
+                    fardingale     1     1
+                          till   614   340
+                      homeward     5     4
+                       edition     1     1
+                     partition     4     4
+                          roan     4     3
+Query 84
+                         jolly     9     9
+                           pui     1     1
+                         drawn    86    69
+                        joseph     2     1
+                          then  2158   568
+                          with  7569   718
+                      woodbine     3     3
+Query 85
+                       harness     8     8
+                        solely     7     7
+                        quoits     1     1
+                      parallel     9     9
+                     pollusion     1     1
+                         disme     1     1
+                         laura     1     1
+Query 86
+                       dashing     2     2
+                    hereabouts     2     2
+                      unbatter     1     1
+                        bewray     8     8
+                      endavour     1     1
+                         alias     3     2
+                       mahomet     1     1
+Query 87
+                       wishest     2     2
+                     nutriment     1     1
+                   advertising     1     1
+                      flattery    28    27
+                    unimproved     1     1
+                      roderigo   105     9
+                       liberte     1     1
+Query 88
+                     liberties     7     6
+                           eld     5     5
+                      unpruned     2     2
+                        glassy     3     3
+                       withold     1     1
+                           buz     5     4
+                          dunk     1     1
+Query 89
+                         chill     3     3
+                          file    25    21
+                        mulier     2     1
+                     frustrate     5     5
+                          tree    96    63
+                     relations     1     1
+                        singly     5     5
+Query 90
+                       puritan     7     4
+                       lattice     3     3
+                       inquiry     2     2
+                        thrift    13     9
+                       conduit     6     6
+                        hatest     1     1
+                           sic     1     1
+Query 91
+                   dispraising     1     1
+                          mild    40    32
+                        ostent     3     3
+                    malcontent     3     2
+                        depths     1     1
+                      articles    19    13
+                      unbarbed     1     1
+Query 92
+                         liest    46    32
+                        scathe     3     3
+                      writings     2     2
+                        heresy     8     7
+                       diviner     1     1
+                      princely    79    60
+                     safeguard     6     6
+Query 93
+                       antique    12    11
+                          seam     2     2
+                         julla     1     1
+                       honours    76    63
+                     laughable     1     1
+                           rim     2     2
+                    villainies     1     1
+Query 94
+                     certainly    26    24
+                        throne    74    60
+               extraordinarily     2     2
+                       glimmer     5     5
+                         bawbl     1     1
+                      equality     3     3
+                           las     1     1
+Query 95
+                         sapit     1     1
+                        unguem     1     1
+                      abrogate     1     1
+                     execution    48    44
+                    mauritania     1     1
+                     prescribe     4     4
+                         sware     1     1
+Query 96
+                      standest     4     4
+                   undervalued     2     2
+                        bishop    86    32
+                        behove     6     6
+                        sennet    18    17
+                      jeweller    11     2
+                        parcel    22    21
+Query 97
+                        odious    10    10
+                         screw     3     3
+                            he  6710   666
+                         crone     1     1
+                      nameless     3     3
+                           any   816   362
+                        gallia    12    11
+Query 98
+                        cressy     1     1
+                        chance   124   103
+                        treaty     7     7
+                           key    45    41
+                          noce     1     1
+                     capriccio     1     1
+                      articles    19    13
+Query 99
+                      outswell     1     1
+                      remember   233   167
+                         skull    20    10
+                       ceaseth     1     1
+                        supper    63    52
+                         drown   109    65
+                      twopence     1     1
+Query 100
+                       chalice     4     4
+                  slaughterous     1     1
+                      polyxene     1     1
+                      unfought     1     1
+                   magnanimity     1     1
+                          muss     1     1
+                          beak     4     4

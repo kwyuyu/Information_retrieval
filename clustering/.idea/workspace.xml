@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2973110-1c28-4618-be19-a205a76d7800" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="546_assignment2" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.32635254">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/apps/OnlineCluster.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="38" column="70" lean-forward="true" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/apps/BuildIndex.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/index/IndexBuilder.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1815">
+                  <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/CosineSimilarity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/DocumentVector.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="34" selection-start-line="34" selection-end-line="34" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#282#283#0" expanded="true" />
+                    <element signature="e#318#319#0" expanded="true" />
+                    <element signature="e#349#350#0" expanded="true" />
+                    <element signature="e#394#395#0" expanded="true" />
+                    <element signature="e#1549#1550#0" expanded="true" />
+                    <element signature="e#1590#1591#0" expanded="true" />
+                    <element signature="e#1636#1637#0" expanded="true" />
+                    <element signature="e#1680#1681#0" expanded="true" />
+                    <element signature="e#1740#1741#0" expanded="true" />
+                    <element signature="e#1791#1792#0" expanded="true" />
+                    <element signature="e#1855#1856#0" expanded="true" />
+                    <element signature="e#1910#1911#0" expanded="true" />
+                    <element signature="e#1961#1962#0" expanded="true" />
+                    <element signature="e#2004#2005#0" expanded="true" />
+                    <element signature="e#2266#2267#0" expanded="true" />
+                    <element signature="e#2316#2317#0" expanded="true" />
+                    <element signature="e#2370#2371#0" expanded="true" />
+                    <element signature="e#2416#2417#0" expanded="true" />
+                    <element signature="e#2499#2500#0" expanded="true" />
+                    <element signature="e#2536#2537#0" expanded="true" />
+                    <element signature="e#2577#2578#0" expanded="true" />
+                    <element signature="e#2612#2613#0" expanded="true" />
+                    <element signature="e#2661#2662#0" expanded="true" />
+                    <element signature="e#2704#2705#0" expanded="true" />
+                    <element signature="e#2760#2761#0" expanded="true" />
+                    <element signature="e#2803#2804#0" expanded="true" />
+                    <element signature="e#2869#2870#0" expanded="true" />
+                    <element signature="e#2914#2915#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/Cluster.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="465">
+                  <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#742#743#0" expanded="true" />
+                    <element signature="e#779#780#0" expanded="true" />
+                    <element signature="e#824#825#0" expanded="true" />
+                    <element signature="e#893#894#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/index/InvertedIndex.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="224" column="17" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>antony_and_cleopatra:1.0</find>
+      <find>richard_iii:4.2</find>
+      <find>get</find>
+      <find>getScene</find>
+      <find>postingsIndex</find>
+      <find>merry_wives_of_windsor:2.4</find>
+      <find>to be</find>
+      <find>timon_of_athens:3.1</find>
+      <find>winters_tale:4.1</find>
+      <find>PostingList</find>
+      <find>antony_and_cleopatra:2.8</find>
+      <find>189</find>
+      <find>666</find>
+      <find>18</find>
+      <find>664</find>
+      <find>527</find>
+      <find>188</find>
+      <find>henry_vi_part_1:4.2</find>
+      <find>as_you_like_it:4.1</find>
+      <find>191</find>
+      <find>hasMore</find>
+      <find>this.doc</find>
+      <find>665</find>
+      <find>the king queen royalty</find>
+      <find>alas poor yorick</find>
+      <find>getDocume</find>
+      <find>getDocumentVec</find>
+      <find>containsValue</find>
+      <find>putAll</find>
+      <find>vec</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/index/PostingList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/NotNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Filter/FilterNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/BooleanAnd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/UnorderedWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RetrievalModels/DirichletSmoothing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/OrderedWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/QueryNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/ProximityNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Filter/FilterReject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Filter/FilterRequire.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/TermNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/Window.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/InferenceNetwork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/AndNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/MaxNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/OrNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/SumNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/WandNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/WsumNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/BeliefNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/apps/InferenceNetworkQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/Vector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/Similarity/SimilarityMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/Similarity/CosineSimilarity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/Linkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/SimilarityFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/SimilaritFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/MeanLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/MinLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/MaxLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/LinkageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/LinkageFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/AverageGroupLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/Linkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/CompleteLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompressUtility/VByteCompression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompressUtility/Compression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompressUtility/EmptyCompression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/SingleLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/AverageLinkage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/DocumentVector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/Cluster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/CosineSimilarity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/index/IndexBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/index/Index.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/apps/BuildIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/index/InvertedIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/apps/OnlineCluster.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="546_assignment4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="disk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ClusterUtility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ClusterUtility" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkageMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ClusterUtility" type="462c0819:PsiDirectoryNode" />
+              <item name="SimilarityMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CompressUtility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="546_assignment5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="546_assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="InvertedIndex.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OnlineCluster">
+    <configuration name="BuildIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.BuildIndex" />
+      <module name="546_assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCluster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.OnlineCluster" />
+      <module name="546_assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineCluster" />
+        <item itemvalue="Application.BuildIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2973110-1c28-4618-be19-a205a76d7800" name="Default Changelist" comment="" />
+      <created>1571421918781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571421918781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5006784" side_tool="true" weight="0.13951011" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49932158" visible="true" weight="0.18025751" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946752" weight="0.26321244" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005325" side_tool="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3284974" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.28911918" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284974" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5006784" side_tool="true" weight="0.13951011" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49932158" visible="true" weight="0.122470714" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946752" weight="0.22487047" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5005325" side_tool="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3284974" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.26943004" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284974" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/QueryNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RetrievalModels/DirichletSmoothing.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/NotNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/AndNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/MaxNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/OrNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/SumNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/WandNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/WsumNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/ProximityNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/InferenceNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Belief/BeliefNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InferenceNetworkUtility/Proximity/TermNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/apps/InferenceNetworkQuery.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompressUtility/Compressors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/SimilaritFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/docVecCompressed" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
+          <folding>
+            <element signature="e#34888#34889#0" expanded="true" />
+            <element signature="e#34916#34917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/lookupCompressed.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/index/Posting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/lookupDocVecCompressed.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="493" column="28" selection-start-line="493" selection-start-column="22" selection-end-line="493" selection-end-column="28" />
+          <folding>
+            <element signature="e#24627#24628#0" expanded="true" />
+            <element signature="e#24681#24682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompressUtility/CompressionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompressUtility/EmptyCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompressUtility/VByteCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompressUtility/Compression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/docTermFreq.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/index/PostingList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1376#1377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/AverageGroupLinkage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/AverageLinkage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/SingleLinkage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/playIds.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/disk/docTermFreq.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/Similarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/SimilarityFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/LinkageFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/Linkage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/LinkageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/LinkageMethod/CompleteLinkage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/index/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/apps/BuildIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/index/IndexBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/SimilarityMethod/CosineSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/DocumentVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1680#1681#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#1791#1792#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#2004#2005#0" expanded="true" />
+            <element signature="e#2266#2267#0" expanded="true" />
+            <element signature="e#2316#2317#0" expanded="true" />
+            <element signature="e#2370#2371#0" expanded="true" />
+            <element signature="e#2416#2417#0" expanded="true" />
+            <element signature="e#2499#2500#0" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2577#2578#0" expanded="true" />
+            <element signature="e#2612#2613#0" expanded="true" />
+            <element signature="e#2661#2662#0" expanded="true" />
+            <element signature="e#2704#2705#0" expanded="true" />
+            <element signature="e#2760#2761#0" expanded="true" />
+            <element signature="e#2803#2804#0" expanded="true" />
+            <element signature="e#2869#2870#0" expanded="true" />
+            <element signature="e#2914#2915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClusterUtility/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/apps/OnlineCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="70" lean-forward="true" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/index/InvertedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="224" column="17" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>546_assignment2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

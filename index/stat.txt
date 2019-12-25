@@ -1,0 +1,4 @@
+Average length of a scene: 1199.0
+Shortest scene: antony_and_cleopatra:2.8 with size 47
+Longest play: hamlet with size 32867
+Shortest play: comedy_of_errors with size 16415

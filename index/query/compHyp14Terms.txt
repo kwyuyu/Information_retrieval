@@ -1,0 +1,2 @@
+Query from uncompress: 0.408000 s
+Query from compress: 0.350000 s

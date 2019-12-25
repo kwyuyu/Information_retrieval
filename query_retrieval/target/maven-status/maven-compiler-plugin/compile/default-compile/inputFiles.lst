@@ -1,0 +1,17 @@
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/compress/Compression.java
+/Users/roger/Desktop/546_assignment4/src/main/java/apps/QueryScore.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/compress/EmptyCompression.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/scoring/DirichletSmoothing.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/Posting.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/compress/VByteCompression.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/compress/CompressionFactory.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/scoring/BM25Model.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/InvertedIndex.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/IndexBuilder.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/compress/Compressors.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/Index.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/scoring/RetrievalModel.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/IndexFactory.java
+/Users/roger/Desktop/546_assignment4/src/main/java/index/PostingList.java
+/Users/roger/Desktop/546_assignment4/src/main/java/apps/BuildIndex.java
+/Users/roger/Desktop/546_assignment4/src/main/java/utilities/scoring/JMSmoothing.java
